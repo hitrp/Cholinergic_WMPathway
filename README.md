@@ -2,7 +2,7 @@
 
 The script and derived group templates for major cholinergic pathways in human brain
 
-![Overview of the cholinergic white matter pathway analysis](Fig1_v10_compress.png)
+![Overview of the cholinergic white matter pathway analysis](Fig1_v10.png)
 
 
 ## 1. Overview
