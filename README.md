@@ -2,7 +2,7 @@
 
 The script and derived group templates for major cholinergic pathways in human brain
 
-![https://github.com/hitrp/Cholinergic_WMPathway/blob/main/Fig1_v10_compress.tif]()
+![https://github.com/hitrp/Cholinergic_WMPathway/blob/main/Fig1_v10.png]()
 
 
 ## 1. Overview
